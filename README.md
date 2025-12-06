@@ -79,6 +79,6 @@ The dataset can be downloaded from the Figshare link: [https://doi.org/10.6084/m
 After downloading the data, you can run the code cells in the Jupyter Notebook files (`SL_Training.ipynb` and `PT_Training.ipynb`) step by step to train the SL and PT models. Once the training is complete, the trained model files (`SL.pth` and `PT.pth`) will be generated.
 
 ## 4. Inference & Analysis
-After training the models (you can also directly use our well-trained models (`SL.pth` and `PT.pth`)), you can run the code cells in the Jupyter Notebook files (`SL_Inference&Analysis.ipynb` and `PT_Inference&Analysis.ipynb`) step by step to evaluate the SL and PT models on the ellipsoid and brain data, as well as to analyze the neural activation patterns.
+After training the models (you can also directly use our well-trained models (`SL.pth` and `PT.pth`)), you can run the code cells in the Jupyter Notebook files (`SL_Inference_Analysis.ipynb` and `PT_Inference_Analysis.ipynb`) step by step to evaluate the SL and PT models on the ellipsoid and brain data, as well as to analyze the neural activation patterns.
 
 
